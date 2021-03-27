@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "E:\\\\next-demo\\\\pages\\\\layout",
+    "children": [
+      {
+        "name": "home",
+        "path": "",
+        "component": "E:\\\\next-demo\\\\pages\\\\home",
+        "_name": "_c02c8c5e"
+      },
+      {
+        "name": "login",
+        "path": "/login",
+        "component": "E:\\\\next-demo\\\\pages\\\\login",
+        "_name": "_5d85c8b7"
+      },
+      {
+        "name": "register",
+        "path": "/register",
+        "component": "E:\\\\next-demo\\\\pages\\\\login",
+        "_name": "_5d85c8b7"
+      },
+      {
+        "name": "profile",
+        "path": "/profile/:username",
+        "component": "E:\\\\next-demo\\\\pages\\\\Profile",
+        "_name": "_4f95df57"
+      },
+      {
+        "name": "setting",
+        "path": "/setting",
+        "component": "E:\\\\next-demo\\\\pages\\\\setting",
+        "_name": "_752dcc1e"
+      },
+      {
+        "name": "editor",
+        "path": "/editor",
+        "component": "E:\\\\next-demo\\\\pages\\\\editor",
+        "_name": "_46a771df"
+      },
+      {
+        "name": "article",
+        "path": "/article/:slug",
+        "component": "E:\\\\next-demo\\\\pages\\\\article",
+        "_name": "_59b0ea78"
+      }
+    ],
+    "_name": "_52764b9c"
+  }
+]
