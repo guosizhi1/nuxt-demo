@@ -53,5 +53,9 @@ module.exports = {
   plugins: [
     '~/plugins/request.js',
     '~/plugins/day.js'
-  ]
+  ],
+  server:{
+    host:"0.0.0.0",
+    port:3000
+  }
 }

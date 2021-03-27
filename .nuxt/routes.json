@@ -1,51 +1,51 @@
 [
   {
     "path": "/",
-    "component": "E:\\\\next-demo\\\\pages\\\\layout",
+    "component": "E:\\\\nuxt\\\\nuxt-demo\\\\pages\\\\layout",
     "children": [
       {
         "name": "home",
         "path": "",
-        "component": "E:\\\\next-demo\\\\pages\\\\home",
-        "_name": "_c02c8c5e"
+        "component": "E:\\\\nuxt\\\\nuxt-demo\\\\pages\\\\home",
+        "_name": "_9a0ad1b8"
       },
       {
         "name": "login",
         "path": "/login",
-        "component": "E:\\\\next-demo\\\\pages\\\\login",
-        "_name": "_5d85c8b7"
+        "component": "E:\\\\nuxt\\\\nuxt-demo\\\\pages\\\\login",
+        "_name": "_a6ded478"
       },
       {
         "name": "register",
         "path": "/register",
-        "component": "E:\\\\next-demo\\\\pages\\\\login",
-        "_name": "_5d85c8b7"
+        "component": "E:\\\\nuxt\\\\nuxt-demo\\\\pages\\\\login",
+        "_name": "_a6ded478"
       },
       {
         "name": "profile",
         "path": "/profile/:username",
-        "component": "E:\\\\next-demo\\\\pages\\\\Profile",
-        "_name": "_4f95df57"
+        "component": "E:\\\\nuxt\\\\nuxt-demo\\\\pages\\\\Profile",
+        "_name": "_07219d24"
       },
       {
         "name": "setting",
         "path": "/setting",
-        "component": "E:\\\\next-demo\\\\pages\\\\setting",
-        "_name": "_752dcc1e"
+        "component": "E:\\\\nuxt\\\\nuxt-demo\\\\pages\\\\setting",
+        "_name": "_2cb989eb"
       },
       {
         "name": "editor",
         "path": "/editor",
-        "component": "E:\\\\next-demo\\\\pages\\\\editor",
-        "_name": "_46a771df"
+        "component": "E:\\\\nuxt\\\\nuxt-demo\\\\pages\\\\editor",
+        "_name": "_4e13731c"
       },
       {
         "name": "article",
         "path": "/article/:slug",
-        "component": "E:\\\\next-demo\\\\pages\\\\article",
-        "_name": "_59b0ea78"
+        "component": "E:\\\\nuxt\\\\nuxt-demo\\\\pages\\\\article",
+        "_name": "_ea996ede"
       }
     ],
-    "_name": "_52764b9c"
+    "_name": "_3675bfa2"
   }
 ]
